@@ -33,5 +33,5 @@ These features can be used and analyzed with appropriate statistical and machine
 ![Cluster](images/cluster_chart.png)
 
 ## Other Finidings
-
+![Correlation_matrix](images/corr_matrix.png)
 ## Future Directions
